@@ -2,3 +2,4 @@
 .generated/*
 vars.sh
 infra/.terraform*
+infra/credentials.tf

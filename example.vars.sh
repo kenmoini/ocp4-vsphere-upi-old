@@ -11,6 +11,9 @@ TERRAFORM_VERSION="0.14.4"
 FCCT_VERSION="0.8.0"
 GOVC_VERSION="0.24.0"
 
+WORKING_DIRECTORY="$HOME/.generated"
+mkdir -p $WORKING_DIRECTORY
+
 ############################################################################################################
 ## DO NOT EDIT PAST THIS LINE!
 
